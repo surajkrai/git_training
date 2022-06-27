@@ -3,3 +3,5 @@ This is text file
 this is commit from local
 
 second commit
+
+stash lecture
