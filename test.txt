@@ -4,4 +4,4 @@ this is commit from local
 
 second commit
 
-stash lecture
+stash lecture new
